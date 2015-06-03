@@ -65,3 +65,31 @@ Cmd: compileSnippet
   api=4 type=0 insize=934 outsize=4020 kw=DIRECTIONAL SHADOWS_OFF ok=1
 Cmd: compileSnippet
   api=4 type=1 insize=934 outsize=5328 kw=DIRECTIONAL SHADOWS_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1207 outsize=1298 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1207 outsize=1152 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1329 outsize=1388 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1329 outsize=1152 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1325 outsize=1388 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1325 outsize=1152 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1325 outsize=1388 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1325 outsize=1152 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1329 outsize=1388 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1329 outsize=1152 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1317 outsize=1388 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1317 outsize=1152 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1327 outsize=1388 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1327 outsize=1152 kw= ok=1
